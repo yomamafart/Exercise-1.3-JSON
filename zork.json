@@ -221,7 +221,7 @@
           "label": "EAST",
           "newPassage": "East of House",
           "pid": "5",
-          "selection": "1"
+          "selection": "1",
           "requires": "window"
         }
       ],
