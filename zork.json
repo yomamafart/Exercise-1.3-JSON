@@ -242,9 +242,8 @@
         }
       ],
       "text": "You are about 10 feet above the ground nestled among some large branches. The nearest branch above you is above your reach. Beside you on the branch is a small bird's nest."
-    }
+    },
     {
-        {
       "name": "Forest",
       "tags": "",
       "pid": "9",
@@ -280,7 +279,7 @@
         }
       ],
       "text": "This is a forest, with trees in all directions around you."
-    },
+    }
     
   ]
 }
